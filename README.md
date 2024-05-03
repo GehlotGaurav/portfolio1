@@ -15,7 +15,7 @@ Gaurav Gehlot
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/7nPzv4B/Screenshot-2024-05-03-183346.png)
+![App Screenshot](https://i.ibb.co/dPBjDCY/Screenshot-2024-05-03-183346-min.png)
 
 
 ## Authors
@@ -24,7 +24,7 @@ Gaurav Gehlot
 
 
 ## Demo
-- [CLICK HERE](https://)
+- [CLICK HERE](https://gaurav1.vercel.app/)
 
 
 
